@@ -6,7 +6,7 @@ Easily import data into Firebase Cloud Firestore from json and yaml files.
 
 Clone the repo:
 
-    $ git clone 
+    $ git clone https://github.com/ntvien/firestore_import_json
 
 Move into the directory:
 
