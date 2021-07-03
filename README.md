@@ -10,7 +10,7 @@ Clone the repo:
 
 Move into the directory:
 
-    $ cd import_data
+    $ cd import_data_simple
     
 Install dependencies:
 
