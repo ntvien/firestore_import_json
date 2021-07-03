@@ -30,6 +30,7 @@ Or without arguments:
     Name of collection: [name of collection]
 
 Ex: 
+
     $ python import_data_firestore.py service_account.json data.json user
     
 #### Note
